@@ -9,7 +9,12 @@ Main feature
 6. Download tables and graphs from each table and graph.
 
 ## Packages
-1. 
+1. shiny
+2. ECharts2Shiny
+3. DT
+4. jsonlite
+5. dplyr
+6. curl
 
 ## System Architecture
 <img width="274" alt="image" src="https://user-images.githubusercontent.com/94397029/157792884-b27dd62f-0213-42c0-914a-bd20ea8dd15d.png">
